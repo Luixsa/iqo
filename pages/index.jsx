@@ -43,13 +43,9 @@ I am a professional editor and software developer. I have been professionally in
             <span style={{ zIndex: '-1' }} className="text-white/5 absolute bottom-3 left-7 text-xl sm:text-2xl md:text-4xl lg:text-3xl font-semibold">Community Manager</span>
           </div>
       </div>
-
-   <body>
     <center> 
-        <link href="https://open.spotify.com/track/7GT8FbMFCvo0rcd9i4yeCO?si=968d156ce29541c7" controls> </link>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s9mI9I9bTbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </center>
-    </body>
-
     </>
   )
 }
