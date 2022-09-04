@@ -44,9 +44,11 @@ I am a professional editor and software developer. I have been professionally in
           </div>
       </div>
 
-<iframe width="560" height="315" src="https://open.spotify.com/track/7GT8FbMFCvo0rcd9i4yeCO?si=4d98429dd17e4cd0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   
-
+   <body>
+    <center> 
+        <audio src="/HTM ÖĞRENİYORUM/audio/elmusto-hasbelkader.mp3" controls> </audio>
+    </center>
+    </body>
 
     </>
   )
