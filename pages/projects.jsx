@@ -18,8 +18,8 @@ export default function Home() {
             projects ? (
               projects.map((_, __) => (
                 <a href={_.link} target="_blank" rel="noreferrer" key={__} className="bg-neutral-800/10 p-4 hover:bg-neutral-800/20 shadow-lg hover:shadow-xl transition-all duration-200 rounded-lg w-full">
-                  <img alt="umut" src={_.image} width="1024" className="rounded-lg" height="512" />
-                  <p className="text-xl font-semibold mt-5">{_.name}</p>
+                  <img alt="iqo" src={"https://cdn.discordapp.com/attachments/997187785154908311/1015831633796018286/miyanom.jpg"} width="1024" className="rounded-lg" height="512" />
+                  <p className="text-xl font-semibold mt-5">{"https://cdn.discordapp.com/attachments/997187785154908311/1015831633796018286/miyanom.jpg"}</p>
                   <p className="text-md font-normal text-white/50 h-24 overflow-small" style={{ "overflow": 'auto' }}>{_.description}</p>
                 </a>
               ))
