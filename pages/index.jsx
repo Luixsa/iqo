@@ -47,6 +47,9 @@ I am a professional editor and software developer. I have been professionally in
 
         <div className="py-20">
         <p className="text-3xl text-white font-semibold">GitHub Repositories</p>
+))}
+        </div>
+      </div>
 <>
   )
 }
