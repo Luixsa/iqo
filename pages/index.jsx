@@ -98,33 +98,7 @@ I am a professional editor and software developer. I have been professionally in
                           </Tippy>
                         </div>
                       </div>
-                    </a>
-                  ))
-              : Array.from({ length: 6 }).map((_, __) => (
-                  <div
-                    key={__}
-                    className="bg-[#191932]/20 p-4 rounded-lg w-full"
-                  >
-                    <div className="bg-[#191932]/50 animate-pulse w-full h-[28px] rounded-md" />
-                    <div className="mt-5 flex w-full justify-between items-center">
-                      <div className="bg-[#191932]/50 animate-pulse w-12 h-[24px] rounded-md" />
-                      <div className="bg-[#191932]/50 animate-pulse w-24 h-[24px] rounded-md" />
-                      <div className="bg-[#191932]/50 animate-pulse w-12 h-[24px] rounded-md" />
-                    </div>
-                  </div>
-                ))
-            : Array.from({ length: 6 }).map((_, __) => (
-                <div key={__} className="bg-[#191932]/20 p-4 rounded-lg w-full">
-                  <div className="bg-[#191932]/50 animate-pulse w-full h-[28px] rounded-md" />
-                  <div className="mt-5 flex w-full justify-between items-center">
-                    <div className="bg-[#191932]/50 animate-pulse w-12 h-[24px] rounded-md" />
-                    <div className="bg-[#191932]/50 animate-pulse w-24 h-[24px] rounded-md" />
-                    <div className="bg-[#191932]/50 animate-pulse w-12 h-[24px] rounded-md" />
-                  </div>
-                </div>
-              ))}
-        </div>
-      </div>
+
 
 
     </>
