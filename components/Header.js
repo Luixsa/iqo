@@ -4,7 +4,6 @@ const items = [
     { icon: 'fab fa-twitch', link: 'https://twitch.com/luixsa_' },
     { icon: 'fab fa-discord', link: 'https://discord.com/users/989110641946157056' },
     { icon: 'fab fa-instagram', link: 'https://instagram.com/twitchden.boslar' },
-    { icon: 'fab fa-github', link: 'https://github.com/luixsa' },
   ]
 
 const navItems = [
