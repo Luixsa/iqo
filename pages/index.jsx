@@ -46,7 +46,7 @@ I am a professional editor and software developer. I have been professionally in
 
    <body>
     <center> 
-        <alt src="https://open.spotify.com/track/7GT8FbMFCvo0rcd9i4yeCO?si=968d156ce29541c7" controls> </alt>
+        <link href="https://open.spotify.com/track/7GT8FbMFCvo0rcd9i4yeCO?si=968d156ce29541c7" controls> </link>
     </center>
     </body>
 
