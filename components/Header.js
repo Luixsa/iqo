@@ -10,7 +10,7 @@ const navItems = [
     { icon: 'fal fa-home', active: 'fa fa-home', label: 'Home', href: '/' },
     { icon: 'fal fa-compass', active: 'fa fa-compass', label: 'Projects', href: '/projects' },
     { icon: 'fal fa-phone', active: 'fa fa-phone', label: 'Contact', href: '/contact' },
-    { icon: 'fal fa-rss', active: 'fa fa-rss', label: 'Blogs', href: 'https://www.miyano.ml' }
+    { icon: 'fal fa-rss', active: 'fa fa-rss', label: 'Miyano', href: 'https://www.miyano.ml' }
 ]
 
 import Link from 'next/link';
