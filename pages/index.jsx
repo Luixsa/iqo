@@ -46,7 +46,7 @@ I am a professional editor and software developer. I have been professionally in
     <center> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s9mI9I9bTbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </center>
-    </>
 <a href="https://open.spotify.com/track/7GT8FbMFCvo0rcd9i4yeCO?si=4d98429dd17e4cd0"></a>
+    </>
   )
 }
