@@ -38,7 +38,7 @@ function MyApp({ Component, pageProps }) {
   return (<>
     <Head>
         <title>My Website iqo</title>
-        <link rel="shortcut icon" href="https://cdn.discordapp.com/attachments/997187785154908311/1016646317981839380/iqologo.png" type="image/x-icon" width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} ></link>
+        <link rel="shortcut icon" href="https://cdn.discordapp.com/attachments/997187785154908311/1015286964397805640/akko.gif" type="image/x-icon" ></link>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="https://pro.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" />
 
